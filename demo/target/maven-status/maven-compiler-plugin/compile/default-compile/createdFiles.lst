@@ -1,0 +1,5 @@
+com\dao\DAO.class
+com\bean\LoginBean.class
+com\bean\MobileInfo.class
+com\bean\StudentBean.class
+com\controllers\StuController.class
